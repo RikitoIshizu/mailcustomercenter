@@ -91,8 +91,8 @@ header {
 #side_menu {
   position: fixed;
   z-index: 1000;
-  right: 141px;
   top: 130px;
+  right: 0;
   display: none;
 }
 
